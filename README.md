@@ -10,6 +10,9 @@ There are two formats available for each FTF data thing:
 
 The .txt also contains data for that FTF (total comments, karma, average K:C).
 
+If you want to view the data in Github, open the .csv-s.
+Apparently Github supports that now, which is cool.
+
 `all.txt` and `all.csv` contain the cumulative data for each user.
 
 Each FTF data thing contains the following information about each user
